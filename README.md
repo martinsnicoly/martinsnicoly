@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou a Nicoly.
 
-<!--
-**martinsnicoly/martinsnicoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software na UniSatc e atualmente estou no 2º semestre da graduação.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software e utilizo este perfil para compartilhar os projetos desenvolvidos ao longo da minha formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estudando
+
+- Python
+- Git e GitHub
+- Engenharia de Requisitos
+- Lógica de Programação
+
+## Objetivos
+
+Busco aprimorar meus conhecimentos por meio de projetos práticos e construir um portfólio que acompanhe minha evolução como desenvolvedora.
+
+## Contato
+
+- LinkedIn: https://linkedin.com/in/nicolycamilo
+- E-mail: nmartinscamilo@gmail.com
